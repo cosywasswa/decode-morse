@@ -27,7 +27,7 @@
 
 # 📖 DECODE MORSE <a name="about-project"></a>
 
-**Decode-Morse** is a problem which solve a morse coded into a simple texts.
+**Decode-Morse** Is a Ruby program which solves a morse code into simple text massage.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
