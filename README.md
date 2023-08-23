@@ -16,7 +16,6 @@
     - [Setup](#setup)
     - [Usage](#usage)
   - [👥 Authors ](#-authors-)
-  - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
@@ -113,12 +112,6 @@ To run tests, run the following command:
 - Twitter: [@Narson321](https://twitter.com/@Narson321)
 - LinkedIn: [@Andry Narson Rabedesana](https://linkedin.com/in/andry-rabedesana)
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
